@@ -1,5 +1,5 @@
 # 42 Philosophers
-
+<img alt="Image of Yaktocat" src="image.png" width=300>
 ## Descrição
 O projeto "42 Philosophers" é uma implementação do problema dos filósofos comendo usando a linguagem C. Este problema é um clássico exemplo de sincronização em sistemas operacionais.
 
@@ -12,7 +12,6 @@ O projeto "42 Philosophers" é uma implementação do problema dos filósofos co
 
 ## Instalação
 Para compilar o projeto, execute os seguintes comandos:
-<img alt="Image of Yaktocat" src="image.png" width=300>
 ```sh
 git clone https://github.com/Domingos-Franco/42-philosophers.git
 cd 42-philosophers
