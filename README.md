@@ -23,19 +23,18 @@ Para executar o programa, use o comando:
 ./philosophers
 ```
 
-Estrutura do Projeto
-main.c: Ponto de entrada do programa.
-philosophers.c: Lógica principal dos filósofos.
+Estrutura do Projeto<br>
+main.c: Ponto de entrada do programa.<br>
+philosophers.c: Lógica principal dos filósofos.<br>
 utils.c: Funções auxiliares.
-Capturas de Tela
 
 ##Contribuições
-- Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 ##Licença
-- Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ##Contato
-- Para mais informações, entre em contato com domingosgermano@gmail.com
+Para mais informações, entre em contato com domingosgermano@gmail.com
 
 
