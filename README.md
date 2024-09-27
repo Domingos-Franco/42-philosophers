@@ -28,13 +28,13 @@ main.c: Ponto de entrada do programa.<br>
 philosophers.c: Lógica principal dos filósofos.<br>
 utils.c: Funções auxiliares.
 
-##Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-##Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-##Contato
+## Contato
 Para mais informações, entre em contato com domingosgermano@gmail.com
 
 
