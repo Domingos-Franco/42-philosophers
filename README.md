@@ -12,7 +12,7 @@ O projeto "42 Philosophers" é uma implementação do problema dos filósofos co
 
 ## Instalação
 Para compilar o projeto, execute os seguintes comandos:
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Image of Yaktocat" src=image.png width=400>
 ```sh
 git clone https://github.com/Domingos-Franco/42-philosophers.git
 cd 42-philosophers
