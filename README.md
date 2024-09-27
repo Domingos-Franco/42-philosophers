@@ -23,6 +23,10 @@ Para executar o programa, use o comando:
 ./philosophers
 ```
 
+```sh
+./philosophers <NUM DE PHILO> <TIME DE MORTE> <TIME DE COMER> <TIME DE DORMIR> <ARGUMENT OPCIONAL>
+```
+
 Estrutura do Projeto<br>
 main.c: Ponto de entrada do programa.<br>
 philosophers.c: Lógica principal dos filósofos.<br>
