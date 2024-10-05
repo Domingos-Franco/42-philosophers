@@ -6,14 +6,14 @@
 #    By: dgermano <dgermano@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/08/22 10:46:10 by dgermano          #+#    #+#              #
-#    Updated: 2024/09/18 13:42:40 by dgermano         ###   ########.fr        #
+#    Updated: 2024/10/04 12:51:12 by dgermano         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = philo
 SRC = $(NAME).c ft_atoui.c live_philopher.c
 CC = cc
-FLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra -Werror -Wuninitialized
 MSG = "\033[1m\033[32m$(NAME) Compiled\033[0m"
 DEL = rm -f
 OBJS = $(SRC:%.c=%.o)
