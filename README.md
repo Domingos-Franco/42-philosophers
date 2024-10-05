@@ -1,5 +1,5 @@
 # 42 Philosophers
-<img alt="Image of Yaktocat" src="image.png" width=300>
+<img alt="Image of Yaktocat" src="philosophersn.png" width=150>
 
 ## Descrição
 O projeto "42 Philosophers" é uma implementação do problema dos filósofos comendo usando a linguagem C. Este problema é um clássico exemplo de sincronização em sistemas operacionais.
